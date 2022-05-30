@@ -1,4 +1,8 @@
-
+说明：
+    这个库是Intel于2005年发布的一个关于贝叶斯网络的开源库，源码用VC 6.0编译可以通过，但是VC6.0属实有些古老不便于于新的项目进行集成开发，目前正在尝试用vs2017编译这个源码，但是遇到了很多坑，欢迎有兴趣的小伙伴们可以一起研究讨论。
+Notice:
+  This library is an Open Source Probabilistic Networks Library from Intel (with community contributions),published in 2005. The source code can be compiled with VC 6.0, but VC6.0 is really old and inconvenient for integrated development of new projects. Currently, I am trying to compile with vs2017. This source code, but encountered a lot of pits, welcome interested friends to study and discuss together.
+  
 ------------------------------------------------------------------
  PNL -- Probabilistic Networks Library. Beta 2.0.    30-March-2004
 ------------------------------------------------------------------
